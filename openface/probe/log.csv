@@ -3,3 +3,50 @@
 2016-06-17 17:12:18,../../../openbr/data/LFW/img/Akhmed_Zakayev/Abel_Pacheco_0004.jpg,Unable to load image,probe,none
 2016-06-17 17:16:52,../../../openbr/data/LFW/img/Bruce_Paltrow/Bruce_Paltrow_0001,Unable to load image,probe,none
 2016-06-17 17:16:52,../../../openbr/data/LFW/img/Gwyneth_Paltrow/Gwyneth_Paltrow_0003,Unable to load image,probe,none
+2016-06-20 10:15:29,../../../openbr/data/MEDS/img/Bill_Gates/Bill_Gates_0003.jpg,Unable to load image,probe,../../../openbr/data/MEDS/
+2016-06-20 10:16:31,../../../openbr/data/MEDS/img/Bill_Gates/Bill_Gates_0003.jpg,Unable to load image,probe,../../../openbr/data/MEDS/
+2016-06-20 10:17:08,../../../openbr/data/MEDS/img/Bill_Gates/Bill_Gates_0003.jpg,Unable to load image,probe,../../../openbr/data/MEDS/
+2016-06-20 10:17:14,../../../openbr/data/MEDS/img/Bill_Gates/Bill_Gates_0003.jpg,Unable to load image,probe,../../../openbr/data/MEDS/
+2016-06-20 10:49:50,../../../openbr/data/MEDS/img/S118-02-t10_01.jpg,Unable to find a face,probe,../../../openbr/data/MEDS/
+2016-06-20 10:56:24,../../../openbr/data/MEDS/img/S118-02-t10_01.jpg,Unable to find a face,probe,../../../openbr/data/MEDS
+2016-06-20 11:00:20,../../../openbr/data/MEDS/img/S118-02-t10_01.jpg,Unable to find a face,probe,../../../openbr/data/MEDS
+2016-06-20 11:06:42,"[u'../../../openbr/data/MEDS/img/S118-02-t10_01.jpg', 'Unable to find a face']",probe,../../../openbr/data/MEDS
+2016-06-20 11:06:42,../../../openbr/data/MEDS/img/S118-02-t10_01.jpg no representation generated,probe,meds
+2016-06-20 11:07:53,"[u'../../../openbr/data/MEDS/img/S182-01-t10_01.jpg', 'Unable to find a face']",probe,../../../openbr/data/MEDS
+2016-06-20 11:07:53,../../../openbr/data/MEDS/img/S182-01-t10_01.jpg no representation generated,probe,meds
+2016-06-20 11:07:57,"[u'../../../openbr/data/MEDS/img/S185-03-t10_01.jpg', 'Unable to find a face']",probe,../../../openbr/data/MEDS
+2016-06-20 11:07:57,../../../openbr/data/MEDS/img/S185-03-t10_01.jpg no representation generated,probe,meds
+2016-06-20 11:09:12,"[u'../../../openbr/data/MEDS/img/S236-01-t10_01.jpg', 'Unable to find a face']",probe,../../../openbr/data/MEDS
+2016-06-20 11:09:12,../../../openbr/data/MEDS/img/S236-01-t10_01.jpg no representation generated,probe,meds
+2016-06-20 11:09:45,"[u'../../../openbr/data/MEDS/img/S259-01-t10_01.jpg', 'Unable to find a face']",probe,../../../openbr/data/MEDS
+2016-06-20 11:09:45,../../../openbr/data/MEDS/img/S259-01-t10_01.jpg no representation generated,probe,meds
+2016-06-20 11:19:50,"[u'../../../openbr/data/MEDS/img/S445-01-t10_01.jpg', 'Unable to find a face']",probe,../../../openbr/data/MEDS
+2016-06-20 11:19:50,../../../openbr/data/MEDS/img/S445-01-t10_01.jpg no representation generated,probe,meds
+2016-06-20 11:19:50,"[u'../../../openbr/data/MEDS/img/S446-02-t10_01.jpg', 'Unable to find a face']",probe,../../../openbr/data/MEDS
+2016-06-20 11:19:50,../../../openbr/data/MEDS/img/S446-02-t10_01.jpg no representation generated,probe,meds
+2016-06-20 11:21:24,"[u'../../../openbr/data/MEDS/img/S466-01-t10_01.jpg', 'Unable to find a face']",probe,../../../openbr/data/MEDS
+2016-06-20 11:21:24,../../../openbr/data/MEDS/img/S466-01-t10_01.jpg no representation generated,probe,meds
+2016-06-20 11:22:04,"[u'../../../openbr/data/MEDS/img/S474-01-t10_01.jpg', 'Unable to find a face']",probe,../../../openbr/data/MEDS
+2016-06-20 11:22:04,../../../openbr/data/MEDS/img/S474-01-t10_01.jpg no representation generated,probe,meds
+2016-06-20 11:38:07,"[u'../../../openbr/data/MEDS/img/S118-02-t10_01.jpg', 'Unable to find a face']",probe,../../../openbr/data/MEDS
+2016-06-20 11:38:07,../../../openbr/data/MEDS/img/S118-02-t10_01.jpg no representation generated,probe,meds
+2016-06-20 11:39:31,"[u'../../../openbr/data/MEDS/img/S182-01-t10_01.jpg', 'Unable to find a face']",probe,../../../openbr/data/MEDS
+2016-06-20 11:39:31,../../../openbr/data/MEDS/img/S182-01-t10_01.jpg no representation generated,probe,meds
+2016-06-20 11:39:33,"[u'../../../openbr/data/MEDS/img/S185-03-t10_01.jpg', 'Unable to find a face']",probe,../../../openbr/data/MEDS
+2016-06-20 11:39:33,../../../openbr/data/MEDS/img/S185-03-t10_01.jpg no representation generated,probe,meds
+2016-06-20 11:40:53,"[u'../../../openbr/data/MEDS/img/S236-01-t10_01.jpg', 'Unable to find a face']",probe,../../../openbr/data/MEDS
+2016-06-20 11:40:53,../../../openbr/data/MEDS/img/S236-01-t10_01.jpg no representation generated,probe,meds
+2016-06-20 11:41:34,"[u'../../../openbr/data/MEDS/img/S259-01-t10_01.jpg', 'Unable to find a face']",probe,../../../openbr/data/MEDS
+2016-06-20 11:41:34,../../../openbr/data/MEDS/img/S259-01-t10_01.jpg no representation generated,probe,meds
+2016-06-20 11:52:34,"[u'../../../openbr/data/MEDS/img/S445-01-t10_01.jpg', 'Unable to find a face']",probe,../../../openbr/data/MEDS
+2016-06-20 11:52:34,../../../openbr/data/MEDS/img/S445-01-t10_01.jpg no representation generated,probe,meds
+2016-06-20 11:52:34,"[u'../../../openbr/data/MEDS/img/S446-02-t10_01.jpg', 'Unable to find a face']",probe,../../../openbr/data/MEDS
+2016-06-20 11:52:34,../../../openbr/data/MEDS/img/S446-02-t10_01.jpg no representation generated,probe,meds
+2016-06-20 11:54:20,"[u'../../../openbr/data/MEDS/img/S466-01-t10_01.jpg', 'Unable to find a face']",probe,../../../openbr/data/MEDS
+2016-06-20 11:54:20,../../../openbr/data/MEDS/img/S466-01-t10_01.jpg no representation generated,probe,meds
+2016-06-20 11:54:57,"[u'../../../openbr/data/MEDS/img/S474-01-t10_01.jpg', 'Unable to find a face']",probe,../../../openbr/data/MEDS
+2016-06-20 11:54:57,../../../openbr/data/MEDS/img/S474-01-t10_01.jpg no representation generated,probe,meds
+2016-06-20 13:48:54,"[u'../../../openbr/data/LFW/img/Damarius_Bilbo/Damarius_Bilbo_0001.jpg', 'Unable to find a face']",probe,../../../openbr/data/LFW
+2016-06-20 13:48:54,../../../openbr/data/LFW/img/Damarius_Bilbo/Damarius_Bilbo_0001.jpg no representation generated,probe,lfw
+2016-06-20 13:56:22,"[u'../../../openbr/data/LFW/img/John_Burkett/John_Burkett_0001.jpg', 'Unable to find a face']",probe,../../../openbr/data/LFW
+2016-06-20 13:56:22,../../../openbr/data/LFW/img/John_Burkett/John_Burkett_0001.jpg no representation generated,probe,lfw
