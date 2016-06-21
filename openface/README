@@ -1,6 +1,6 @@
 ###################################################
 #
-# Free 2D face recognition software (FRS)
+# Free 2D face recognition software (FRS) (OpenFace)
 #
 # Author: s113604 Mark Ian Svenningsen
 # For   : DTU 02238 Biometric Systems (Summer 2016)
@@ -13,6 +13,14 @@ repository is split into three parts as described in the attached pdf.
 The folders ./enroll, ./probe, ./evaluation each contain an IPython Notebook
 (*.ipynb) containing the python source code used to create the facial 
 recognition system + evaluation.
+
+The biometric reference database is located as files:
+./enroll/lfw_enrolled_templates.csv
+./enroll/meds_enrolled_templates.csv
+
+The biometric probe results (with euclidean distance and binary probe result) is located as files:
+./probe/lfw_probing_results.csv
+./probe/meds_probing_results.csv
 
 To review the code you either need to have IPython Notebook + Python 2.7 
 installed or visit the links below to access them from a web browser.
