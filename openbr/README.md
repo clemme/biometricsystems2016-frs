@@ -28,6 +28,6 @@ The provided notebooks, can be view in the browser by following the below links.
 ## Datasets
 Here is the download link to the datasets used.
 
-*	[BioID](ftp://ftp.uni-erlangen.de/pub/facedb/BioID-FaceDatabase-V1.2.zip)
+*	[BioID](//ftp.uni-erlangen.de/pub/facedb/BioID-FaceDatabase-V1.2.zip)
 *	[MEDS](http://nigos.nist.gov:8080/nist/sd/32/NIST_SD32_MEDS-II_face.zip)
 *	[LFW](http://vis-www.cs.umass.edu/lfw/lfw.tgz)
